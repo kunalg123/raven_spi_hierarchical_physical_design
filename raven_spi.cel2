@@ -1,0 +1,74 @@
+padgroup mask_rev_vector permute
+twpin_mask_rev[0]  fixed
+twpin_mask_rev[1]  fixed
+twpin_mask_rev[2]  fixed
+twpin_mask_rev[3]  fixed
+restrict side R
+
+padgroup mask_rev_in_vector permute
+twpin_mask_rev_in[0]  fixed
+twpin_mask_rev_in[1]  fixed
+twpin_mask_rev_in[2]  fixed
+twpin_mask_rev_in[3]  fixed
+restrict side B
+
+padgroup mfgr_id_vector permute
+twpin_mfgr_id[0]  fixed
+twpin_mfgr_id[1]  fixed
+twpin_mfgr_id[2]  fixed
+twpin_mfgr_id[3]  fixed
+twpin_mfgr_id[4]  fixed
+twpin_mfgr_id[5]  fixed
+twpin_mfgr_id[6]  fixed
+twpin_mfgr_id[7]  fixed
+twpin_mfgr_id[8]  fixed
+twpin_mfgr_id[9]  fixed
+twpin_mfgr_id[10]  fixed
+twpin_mfgr_id[11]  fixed
+restrict side TR
+
+padgroup pll_trim_vector permute
+twpin_pll_trim[0]  fixed
+twpin_pll_trim[1]  fixed
+twpin_pll_trim[2]  fixed
+twpin_pll_trim[3]  fixed
+restrict side T
+
+padgroup prod_id_vector permute
+twpin_prod_id[0]  fixed
+twpin_prod_id[1]  fixed
+twpin_prod_id[2]  fixed
+twpin_prod_id[3]  fixed
+twpin_prod_id[4]  fixed
+twpin_prod_id[5]  fixed
+twpin_prod_id[6]  fixed
+twpin_prod_id[7]  fixed
+restrict side TR
+
+padgroup left_group permute
+twpin_SCK  fixed
+twpin_SDI  fixed
+twpin_sdo_enb  fixed
+twpin_CSB  fixed
+twpin_xtal_ena  fixed
+twpin_RST  fixed
+twpin_SDO  fixed
+restrict side L
+
+padgroup right_group permute
+twpin_trap  fixed
+twpin_reset  fixed
+twpin_irq  fixed
+twpin_pll_bypass  fixed
+restrict side R
+
+padgroup top_group permute
+twpin_pll_vco_ena  fixed
+twpin_reg_ena  fixed
+twpin_pll_cp_ena  fixed
+restrict side T
+
+padgroup bottom_group permute
+twpin_pll_bias_ena  fixed
+restrict side B
+
