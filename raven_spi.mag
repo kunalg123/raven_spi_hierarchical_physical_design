@@ -1,6 +1,6 @@
 magic
 tech scmos
-timestamp 1560666112
+timestamp 1560670327
 << metal1 >>
 rect 960 1303 962 1307
 rect 966 1303 969 1307
@@ -5847,1870 +5847,1826 @@ rect 960 107 976 302
 rect 965 102 970 107
 rect 975 102 976 107
 rect 960 -30 976 102
-use PADFC  PADFC_0
-timestamp 1560662619
-transform 1 0 -3098 0 1 1536
-box 0 0 3000 3000
-use PADVDD  PADVDD_0
-timestamp 1560662619
-transform 1 0 -98 0 1 1536
-box 0 0 900 3000
-use PADVDD  PADVDD_1
-timestamp 1560662619
-transform 1 0 802 0 1 1536
-box 0 0 900 3000
-use PADFC  PADFC_1
-timestamp 1560662619
-transform 0 1 1666 -1 0 4536
-box 0 0 3000 3000
-use PADINC  PADINC_2
-timestamp 1560662619
-transform 0 -1 -98 1 0 648
-box 0 0 900 3000
 use INVX8  INVX8_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 4 0 -1 1305
 box 0 0 40 100
 use INVX8  INVX8_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 44 0 -1 1305
 box 0 0 40 100
 use DFFSR  DFFSR_32
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 260 0 -1 1305
 box 0 0 176 100
 use BUFX2  BUFX2_24
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 284 0 -1 1305
 box 0 0 24 100
 use DFFSR  DFFSR_28
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 284 0 -1 1305
 box 0 0 176 100
 use FILL  FILL_12_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 460 0 -1 1305
 box 0 0 8 100
 use FILL  FILL_12_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 468 0 -1 1305
 box 0 0 8 100
 use BUFX2  BUFX2_23
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 476 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_38
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 524 0 -1 1305
 box 0 0 24 100
 use DFFSR  DFFSR_31
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 700 0 -1 1305
 box 0 0 176 100
 use BUFX4  BUFX4_6
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 732 0 -1 1305
 box 0 0 32 100
 use INVX1  INVX1_12
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 732 0 -1 1305
 box 0 0 16 100
 use DFFSR  DFFSR_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 924 0 -1 1305
 box 0 0 176 100
 use BUFX2  BUFX2_22
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 948 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_35
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 948 0 -1 1305
 box 0 0 24 100
 use FILL  FILL_12_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 980 0 -1 1305
 box 0 0 8 100
 use FILL  FILL_12_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 988 0 -1 1305
 box 0 0 8 100
 use DFFSR  DFFSR_5
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1164 0 -1 1305
 box 0 0 176 100
 use BUFX2  BUFX2_29
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1164 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_30
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1188 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_32
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1212 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_31
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1236 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_33
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1260 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_27
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1284 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_28
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1308 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_17
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1332 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_34
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1356 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_15
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1380 0 -1 1305
 box 0 0 24 100
 use BUFX2  BUFX2_18
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1404 0 -1 1305
 box 0 0 24 100
 use FILL  FILL_13_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1436 0 -1 1305
 box 0 0 8 100
 use FILL  FILL_13_2
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1444 0 -1 1305
 box 0 0 8 100
 use BUFX2  BUFX2_37
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 28 0 1 1105
 box 0 0 24 100
 use BUFX2  BUFX2_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 52 0 1 1105
 box 0 0 24 100
 use BUFX2  BUFX2_25
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 52 0 1 1105
 box 0 0 24 100
 use DFFSR  DFFSR_24
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 252 0 1 1105
 box 0 0 176 100
 use NAND2X1  NAND2X1_45
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 252 0 1 1105
 box 0 0 24 100
 use OAI21X1  OAI21X1_49
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 308 0 1 1105
 box 0 0 32 100
 use OAI21X1  OAI21X1_48
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 340 0 1 1105
 box 0 0 32 100
 use OAI21X1  OAI21X1_41
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 340 0 1 1105
 box 0 0 32 100
 use NAND2X1  NAND2X1_41
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 396 0 1 1105
 box 0 0 24 100
 use FILL  FILL_11_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 396 0 1 1105
 box 0 0 8 100
 use FILL  FILL_11_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 404 0 1 1105
 box 0 0 8 100
 use DFFSR  DFFSR_30
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 412 0 1 1105
 box 0 0 176 100
 use NAND2X1  NAND2X1_44
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 588 0 1 1105
 box 0 0 24 100
 use OAI21X1  OAI21X1_47
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 644 0 1 1105
 box 0 0 32 100
 use OAI21X1  OAI21X1_46
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 676 0 1 1105
 box 0 0 32 100
 use NAND2X1  NAND2X1_43
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 676 0 1 1105
 box 0 0 24 100
 use OAI21X1  OAI21X1_45
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 732 0 1 1105
 box 0 0 32 100
 use OAI21X1  OAI21X1_42
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 732 0 1 1105
 box 0 0 32 100
 use OAI21X1  OAI21X1_44
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 796 0 1 1105
 box 0 0 32 100
 use OAI21X1  OAI21X1_43
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 796 0 1 1105
 box 0 0 32 100
 use NAND2X1  NAND2X1_42
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 852 0 1 1105
 box 0 0 24 100
 use MUX2X1  MUX2X1_5
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 852 0 1 1105
 box 0 0 48 100
 use FILL  FILL_11_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 908 0 1 1105
 box 0 0 8 100
 use FILL  FILL_11_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 916 0 1 1105
 box 0 0 8 100
 use DFFSR  DFFSR_29
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1092 0 1 1105
 box 0 0 176 100
 use INVX1  INVX1_22
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1092 0 1 1105
 box 0 0 16 100
 use AOI21X1  AOI21X1_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1108 0 1 1105
 box 0 0 32 100
 use NOR2X1  NOR2X1_15
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1164 0 1 1105
 box 0 0 24 100
 use DFFSR  DFFSR_2
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1340 0 1 1105
 box 0 0 176 100
 use BUFX2  BUFX2_26
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1340 0 1 1105
 box 0 0 24 100
 use BUFX2  BUFX2_11
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1364 0 1 1105
 box 0 0 24 100
 use BUFX2  BUFX2_13
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1388 0 1 1105
 box 0 0 24 100
 use BUFX2  BUFX2_9
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1412 0 1 1105
 box 0 0 24 100
 use FILL  FILL_12_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1436 0 1 1105
 box 0 0 8 100
 use INVX1  INVX1_8
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 20 0 -1 1105
 box 0 0 16 100
 use DFFSR  DFFSR_27
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 20 0 -1 1105
 box 0 0 176 100
 use NAND2X1  NAND2X1_40
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 196 0 -1 1105
 box 0 0 24 100
 use OAI21X1  OAI21X1_39
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 252 0 -1 1105
 box 0 0 32 100
 use INVX4  INVX4_4
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 276 0 -1 1105
 box 0 0 24 100
 use OAI21X1  OAI21X1_38
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 308 0 -1 1105
 box 0 0 32 100
 use OAI21X1  OAI21X1_40
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 308 0 -1 1105
 box 0 0 32 100
 use NAND2X1  NAND2X1_39
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 340 0 -1 1105
 box 0 0 24 100
 use OAI21X1  OAI21X1_37
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 396 0 -1 1105
 box 0 0 32 100
 use FILL  FILL_10_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 404 0 -1 1105
 box 0 0 8 100
 use FILL  FILL_10_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 412 0 -1 1105
 box 0 0 8 100
 use DFFSR  DFFSR_26
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 588 0 -1 1105
 box 0 0 176 100
 use OAI21X1  OAI21X1_36
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 620 0 -1 1105
 box 0 0 32 100
 use NOR2X1  NOR2X1_44
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 644 0 -1 1105
 box 0 0 24 100
 use INVX1  INVX1_38
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 644 0 -1 1105
 box 0 0 16 100
 use OAI21X1  OAI21X1_35
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 660 0 -1 1105
 box 0 0 32 100
 use NAND3X1  NAND3X1_20
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 724 0 -1 1105
 box 0 0 32 100
 use NOR2X1  NOR2X1_43
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 748 0 -1 1105
 box 0 0 24 100
 use NOR2X1  NOR2X1_42
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 772 0 -1 1105
 box 0 0 24 100
 use DFFSR  DFFSR_25
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 948 0 -1 1105
 box 0 0 176 100
 use NAND2X1  NAND2X1_12
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 972 0 -1 1105
 box 0 0 24 100
 use FILL  FILL_10_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 972 0 -1 1105
 box 0 0 8 100
 use FILL  FILL_10_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 980 0 -1 1105
 box 0 0 8 100
 use BUFX2  BUFX2_21
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 988 0 -1 1105
 box 0 0 24 100
 use AOI21X1  AOI21X1_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1012 0 -1 1105
 box 0 0 32 100
 use NOR2X1  NOR2X1_13
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1044 0 -1 1105
 box 0 0 24 100
 use AOI22X1  AOI22X1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1068 0 -1 1105
 box 0 0 40 100
 use NAND2X1  NAND2X1_13
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1108 0 -1 1105
 box 0 0 24 100
 use OAI21X1  OAI21X1_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1132 0 -1 1105
 box 0 0 32 100
 use DFFSR  DFFSR_11
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1164 0 -1 1105
 box 0 0 176 100
 use BUFX2  BUFX2_36
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1340 0 -1 1105
 box 0 0 24 100
 use BUFX2  BUFX2_7
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1364 0 -1 1105
 box 0 0 24 100
 use BUFX2  BUFX2_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1388 0 -1 1105
 box 0 0 24 100
 use BUFX2  BUFX2_8
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1412 0 -1 1105
 box 0 0 24 100
 use FILL  FILL_11_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1444 0 -1 1105
 box 0 0 8 100
 use DFFSR  DFFSR_8
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 180 0 1 905
 box 0 0 176 100
 use DFFSR  DFFSR_7
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 180 0 1 905
 box 0 0 176 100
 use NOR2X1  NOR2X1_41
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 356 0 1 905
 box 0 0 24 100
 use NOR2X1  NOR2X1_40
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 380 0 1 905
 box 0 0 24 100
 use NOR2X1  NOR2X1_39
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 428 0 1 905
 box 0 0 24 100
 use INVX4  INVX4_3
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 428 0 1 905
 box 0 0 24 100
 use FILL  FILL_9_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 452 0 1 905
 box 0 0 8 100
 use FILL  FILL_9_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 460 0 1 905
 box 0 0 8 100
 use INVX1  INVX1_16
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 468 0 1 905
 box 0 0 16 100
 use AOI21X1  AOI21X1_3
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 484 0 1 905
 box 0 0 32 100
 use NOR2X1  NOR2X1_14
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 540 0 1 905
 box 0 0 24 100
 use DFFSR  DFFSR_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 540 0 1 905
 box 0 0 176 100
 use NOR2X1  NOR2X1_45
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 740 0 1 905
 box 0 0 24 100
 use OAI22X1  OAI22X1_2
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 780 0 1 905
 box 0 0 40 100
 use OAI22X1  OAI22X1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 780 0 1 905
 box 0 0 40 100
 use NAND3X1  NAND3X1_7
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 820 0 1 905
 box 0 0 32 100
 use NAND3X1  NAND3X1_5
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 852 0 1 905
 box 0 0 32 100
 use NAND2X1  NAND2X1_10
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 908 0 1 905
 box 0 0 24 100
 use INVX1  INVX1_21
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 908 0 1 905
 box 0 0 16 100
 use MUX2X1  MUX2X1_4
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 972 0 1 905
 box 0 0 48 100
 use FILL  FILL_9_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 980 0 1 905
 box 0 0 8 100
 use FILL  FILL_9_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 988 0 1 905
 box 0 0 8 100
 use INVX1  INVX1_13
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1004 0 1 905
 box 0 0 16 100
 use AOI21X1  AOI21X1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1036 0 1 905
 box 0 0 32 100
 use NAND3X1  NAND3X1_2
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1068 0 1 905
 box 0 0 32 100
 use DFFSR  DFFSR_3
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1068 0 1 905
 box 0 0 176 100
 use DFFSR  DFFSR_10
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1244 0 1 905
 box 0 0 176 100
 use BUFX2  BUFX2_20
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1420 0 1 905
 box 0 0 24 100
 use BUFX4  BUFX4_10
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 4 0 -1 905
 box 0 0 32 100
 use DFFSR  DFFSR_21
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 36 0 -1 905
 box 0 0 176 100
 use INVX1  INVX1_31
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 212 0 -1 905
 box 0 0 16 100
 use INVX1  INVX1_18
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 228 0 -1 905
 box 0 0 16 100
 use MUX2X1  MUX2X1_2
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 292 0 -1 905
 box 0 0 48 100
 use INVX1  INVX1_7
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 308 0 -1 905
 box 0 0 16 100
 use NOR2X1  NOR2X1_9
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 308 0 -1 905
 box 0 0 24 100
 use OAI21X1  OAI21X1_3
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 332 0 -1 905
 box 0 0 32 100
 use INVX1  INVX1_5
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 380 0 -1 905
 box 0 0 16 100
 use FILL  FILL_8_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 388 0 -1 905
 box 0 0 8 100
 use FILL  FILL_8_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 396 0 -1 905
 box 0 0 8 100
 use DFFSR  DFFSR_17
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 572 0 -1 905
 box 0 0 176 100
 use DFFSR  DFFSR_16
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 572 0 -1 905
 box 0 0 176 100
 use NAND2X1  NAND2X1_11
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 748 0 -1 905
 box 0 0 24 100
 use INVX4  INVX4_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 796 0 -1 905
 box 0 0 24 100
 use NOR2X1  NOR2X1_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 796 0 -1 905
 box 0 0 24 100
 use NOR3X1  NOR3X1_7
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 884 0 -1 905
 box 0 0 64 100
 use INVX1  INVX1_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 884 0 -1 905
 box 0 0 16 100
 use NAND2X1  NAND2X1_5
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 900 0 -1 905
 box 0 0 24 100
 use NOR2X1  NOR2X1_12
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 948 0 -1 905
 box 0 0 24 100
 use FILL  FILL_8_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 956 0 -1 905
 box 0 0 8 100
 use FILL  FILL_8_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 964 0 -1 905
 box 0 0 8 100
 use NOR3X1  NOR3X1_2
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1028 0 -1 905
 box 0 0 64 100
 use NAND2X1  NAND2X1_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1028 0 -1 905
 box 0 0 24 100
 use NAND2X1  NAND2X1_15
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1052 0 -1 905
 box 0 0 24 100
 use NOR3X1  NOR3X1_6
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1140 0 -1 905
 box 0 0 64 100
 use NAND2X1  NAND2X1_7
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1164 0 -1 905
 box 0 0 24 100
 use INVX1  INVX1_14
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1164 0 -1 905
 box 0 0 16 100
 use OAI21X1  OAI21X1_5
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1212 0 -1 905
 box 0 0 32 100
 use OAI21X1  OAI21X1_6
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1244 0 -1 905
 box 0 0 32 100
 use DFFSR  DFFSR_9
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1244 0 -1 905
 box 0 0 176 100
 use BUFX2  BUFX2_12
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1420 0 -1 905
 box 0 0 24 100
 use CLKBUF1  CLKBUF1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 4 0 1 705
 box 0 0 72 100
 use MUX2X1  MUX2X1_3
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 124 0 1 705
 box 0 0 48 100
 use INVX1  INVX1_19
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 140 0 1 705
 box 0 0 16 100
 use MUX2X1  MUX2X1_11
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 188 0 1 705
 box 0 0 48 100
 use INVX1  INVX1_17
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 188 0 1 705
 box 0 0 16 100
 use MUX2X1  MUX2X1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 252 0 1 705
 box 0 0 48 100
 use DFFSR  DFFSR_6
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 252 0 1 705
 box 0 0 176 100
 use OAI21X1  OAI21X1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 428 0 1 705
 box 0 0 32 100
 use FILL  FILL_7_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 468 0 1 705
 box 0 0 8 100
 use FILL  FILL_7_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 476 0 1 705
 box 0 0 8 100
 use INVX1  INVX1_20
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 492 0 1 705
 box 0 0 16 100
 use BUFX4  BUFX4_8
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 524 0 1 705
 box 0 0 32 100
 use INVX1  INVX1_27
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 524 0 1 705
 box 0 0 16 100
 use MUX2X1  MUX2X1_7
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 588 0 1 705
 box 0 0 48 100
 use CLKBUF1  CLKBUF1_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 588 0 1 705
 box 0 0 72 100
 use MUX2X1  MUX2X1_6
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 708 0 1 705
 box 0 0 48 100
 use INVX1  INVX1_26
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 724 0 1 705
 box 0 0 16 100
 use OAI21X1  OAI21X1_2
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 756 0 1 705
 box 0 0 32 100
 use NAND3X1  NAND3X1_3
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 788 0 1 705
 box 0 0 32 100
 use NOR2X1  NOR2X1_5
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 812 0 1 705
 box 0 0 24 100
 use NAND3X1  NAND3X1_6
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 844 0 1 705
 box 0 0 32 100
 use NAND3X1  NAND3X1_4
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 876 0 1 705
 box 0 0 32 100
 use NAND3X1  NAND3X1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 876 0 1 705
 box 0 0 32 100
 use NAND2X1  NAND2X1_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 908 0 1 705
 box 0 0 24 100
 use INVX1  INVX1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 948 0 1 705
 box 0 0 16 100
 use NAND3X1  NAND3X1_8
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 980 0 1 705
 box 0 0 32 100
 use FILL  FILL_7_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 988 0 1 705
 box 0 0 8 100
 use FILL  FILL_7_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 996 0 1 705
 box 0 0 8 100
 use NOR2X1  NOR2X1_11
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1020 0 1 705
 box 0 0 24 100
 use NOR3X1  NOR3X1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1020 0 1 705
 box 0 0 64 100
 use NAND2X1  NAND2X1_14
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1084 0 1 705
 box 0 0 24 100
 use INVX2  INVX2_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1124 0 1 705
 box 0 0 16 100
 use NAND3X1  NAND3X1_9
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1156 0 1 705
 box 0 0 32 100
 use NAND3X1  NAND3X1_10
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1156 0 1 705
 box 0 0 32 100
 use NOR3X1  NOR3X1_5
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1188 0 1 705
 box 0 0 64 100
 use DFFSR  DFFSR_45
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1428 0 1 705
 box 0 0 176 100
 use FILL  FILL_8_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1428 0 1 705
 box 0 0 8 100
 use FILL  FILL_8_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1436 0 1 705
 box 0 0 8 100
 use DFFSR  DFFSR_22
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 4 0 -1 705
 box 0 0 176 100
 use INVX1  INVX1_30
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 196 0 -1 705
 box 0 0 16 100
 use INVX1  INVX1_32
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 196 0 -1 705
 box 0 0 16 100
 use MUX2X1  MUX2X1_12
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 260 0 -1 705
 box 0 0 48 100
 use DFFSR  DFFSR_18
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 260 0 -1 705
 box 0 0 176 100
 use INVX1  INVX1_29
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 452 0 -1 705
 box 0 0 16 100
 use FILL  FILL_6_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 460 0 -1 705
 box 0 0 8 100
 use FILL  FILL_6_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 468 0 -1 705
 box 0 0 8 100
 use MUX2X1  MUX2X1_9
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 516 0 -1 705
 box 0 0 48 100
 use INVX1  INVX1_28
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 516 0 -1 705
 box 0 0 16 100
 use MUX2X1  MUX2X1_8
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 580 0 -1 705
 box 0 0 48 100
 use INVX4  INVX4_5
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 604 0 -1 705
 box 0 0 24 100
 use OAI21X1  OAI21X1_27
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 604 0 -1 705
 box 0 0 32 100
 use DFFSR  DFFSR_36
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 812 0 -1 705
 box 0 0 176 100
 use NAND2X1  NAND2X1_9
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 836 0 -1 705
 box 0 0 24 100
 use INVX1  INVX1_6
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 836 0 -1 705
 box 0 0 16 100
 use NOR2X1  NOR2X1_6
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 852 0 -1 705
 box 0 0 24 100
 use NOR2X1  NOR2X1_10
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 900 0 -1 705
 box 0 0 24 100
 use NOR2X1  NOR2X1_3
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 900 0 -1 705
 box 0 0 24 100
 use INVX2  INVX2_9
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 924 0 -1 705
 box 0 0 16 100
 use NOR2X1  NOR2X1_7
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 940 0 -1 705
 box 0 0 24 100
 use FILL  FILL_6_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 972 0 -1 705
 box 0 0 8 100
 use FILL  FILL_6_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 980 0 -1 705
 box 0 0 8 100
 use INVX1  INVX1_3
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 996 0 -1 705
 box 0 0 16 100
 use NAND2X1  NAND2X1_6
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1020 0 -1 705
 box 0 0 24 100
 use NAND2X1  NAND2X1_3
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1044 0 -1 705
 box 0 0 24 100
 use INVX1  INVX1_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1044 0 -1 705
 box 0 0 16 100
 use NOR2X1  NOR2X1_8
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1084 0 -1 705
 box 0 0 24 100
 use NAND2X1  NAND2X1_8
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1084 0 -1 705
 box 0 0 24 100
 use NOR3X1  NOR3X1_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1108 0 -1 705
 box 0 0 64 100
 use NOR3X1  NOR3X1_3
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1172 0 -1 705
 box 0 0 64 100
 use DFFSR  DFFSR_44
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1412 0 -1 705
 box 0 0 176 100
 use BUFX2  BUFX2_6
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1412 0 -1 705
 box 0 0 24 100
 use FILL  FILL_7_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1444 0 -1 705
 box 0 0 8 100
 use DFFSR  DFFSR_20
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 4 0 1 505
 box 0 0 176 100
 use MUX2X1  MUX2X1_10
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 228 0 1 505
 box 0 0 48 100
 use DFFSR  DFFSR_19
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 228 0 1 505
 box 0 0 176 100
 use XNOR2X1  XNOR2X1_2
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 460 0 1 505
 box 0 0 56 100
 use FILL  FILL_5_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 460 0 1 505
 box 0 0 8 100
 use FILL  FILL_5_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 468 0 1 505
 box 0 0 8 100
 use DFFSR  DFFSR_47
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 476 0 1 505
 box 0 0 176 100
 use INVX1  INVX1_23
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 652 0 1 505
 box 0 0 16 100
 use OAI21X1  OAI21X1_12
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 668 0 1 505
 box 0 0 32 100
 use OAI21X1  OAI21X1_28
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 732 0 1 505
 box 0 0 32 100
 use NAND2X1  NAND2X1_28
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 756 0 1 505
 box 0 0 24 100
 use NAND2X1  NAND2X1_32
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 756 0 1 505
 box 0 0 24 100
 use OAI21X1  OAI21X1_10
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 780 0 1 505
 box 0 0 32 100
 use NAND2X1  NAND2X1_18
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 812 0 1 505
 box 0 0 24 100
 use DFFSR  DFFSR_23
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 836 0 1 505
 box 0 0 176 100
 use FILL  FILL_5_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1012 0 1 505
 box 0 0 8 100
 use FILL  FILL_5_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1020 0 1 505
 box 0 0 8 100
 use NOR2X1  NOR2X1_46
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1028 0 1 505
 box 0 0 24 100
 use OAI21X1  OAI21X1_50
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1084 0 1 505
 box 0 0 32 100
 use AND2X2  AND2X2_2
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1116 0 1 505
 box 0 0 32 100
 use NOR2X1  NOR2X1_26
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1140 0 1 505
 box 0 0 24 100
 use NAND3X1  NAND3X1_11
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1140 0 1 505
 box 0 0 32 100
 use INVX1  INVX1_9
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1188 0 1 505
 box 0 0 16 100
 use DFFSR  DFFSR_46
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1364 0 1 505
 box 0 0 176 100
 use CLKBUF1  CLKBUF1_3
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1436 0 1 505
 box 0 0 72 100
 use FILL  FILL_6_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1436 0 1 505
 box 0 0 8 100
 use BUFX4  BUFX4_5
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 4 0 -1 505
 box 0 0 32 100
 use DFFSR  DFFSR_37
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 36 0 -1 505
 box 0 0 176 100
 use DFFSR  DFFSR_39
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 212 0 -1 505
 box 0 0 176 100
 use OAI21X1  OAI21X1_30
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 420 0 -1 505
 box 0 0 32 100
 use AOI21X1  AOI21X1_14
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 420 0 -1 505
 box 0 0 32 100
 use FILL  FILL_4_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 452 0 -1 505
 box 0 0 8 100
 use FILL  FILL_4_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 460 0 -1 505
 box 0 0 8 100
 use OAI22X1  OAI22X1_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 468 0 -1 505
 box 0 0 40 100
 use INVX2  INVX2_5
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 524 0 -1 505
 box 0 0 16 100
 use NOR2X1  NOR2X1_33
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 524 0 -1 505
 box 0 0 24 100
 use NOR2X1  NOR2X1_31
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 548 0 -1 505
 box 0 0 24 100
 use AOI21X1  AOI21X1_16
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 572 0 -1 505
 box 0 0 32 100
 use NAND3X1  NAND3X1_17
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 636 0 -1 505
 box 0 0 32 100
 use INVX2  INVX2_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 636 0 -1 505
 box 0 0 16 100
 use NOR2X1  NOR2X1_19
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 652 0 -1 505
 box 0 0 24 100
 use NAND2X1  NAND2X1_34
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 676 0 -1 505
 box 0 0 24 100
 use OAI21X1  OAI21X1_31
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 700 0 -1 505
 box 0 0 32 100
 use NAND2X1  NAND2X1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 732 0 -1 505
 box 0 0 24 100
 use AND2X2  AND2X2_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 756 0 -1 505
 box 0 0 32 100
 use INVX2  INVX2_3
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 788 0 -1 505
 box 0 0 16 100
 use NAND2X1  NAND2X1_19
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 828 0 -1 505
 box 0 0 24 100
 use OAI21X1  OAI21X1_29
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 828 0 -1 505
 box 0 0 32 100
 use AOI21X1  AOI21X1_13
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 892 0 -1 505
 box 0 0 32 100
 use OAI21X1  OAI21X1_9
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 924 0 -1 505
 box 0 0 32 100
 use NOR2X1  NOR2X1_30
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 948 0 -1 505
 box 0 0 24 100
 use NAND2X1  NAND2X1_38
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 948 0 -1 505
 box 0 0 24 100
 use FILL  FILL_4_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 980 0 -1 505
 box 0 0 8 100
 use FILL  FILL_4_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 988 0 -1 505
 box 0 0 8 100
 use NOR2X1  NOR2X1_27
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1012 0 -1 505
 box 0 0 24 100
 use NAND3X1  NAND3X1_12
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1012 0 -1 505
 box 0 0 32 100
 use NOR2X1  NOR2X1_22
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1044 0 -1 505
 box 0 0 24 100
 use NAND3X1  NAND3X1_15
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1100 0 -1 505
 box 0 0 32 100
 use AOI21X1  AOI21X1_6
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1132 0 -1 505
 box 0 0 32 100
 use INVX1  INVX1_33
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1132 0 -1 505
 box 0 0 16 100
 use NAND2X1  NAND2X1_25
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1148 0 -1 505
 box 0 0 24 100
 use AOI21X1  AOI21X1_9
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1204 0 -1 505
 box 0 0 32 100
 use NAND2X1  NAND2X1_29
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1204 0 -1 505
 box 0 0 24 100
 use INVX2  INVX2_10
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1244 0 -1 505
 box 0 0 16 100
 use AOI21X1  AOI21X1_10
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1276 0 -1 505
 box 0 0 32 100
 use AOI21X1  AOI21X1_11
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1308 0 -1 505
 box 0 0 32 100
 use NOR2X1  NOR2X1_28
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1332 0 -1 505
 box 0 0 24 100
 use NOR2X1  NOR2X1_29
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1356 0 -1 505
 box 0 0 24 100
 use XNOR2X1  XNOR2X1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1412 0 -1 505
 box 0 0 56 100
 use BUFX2  BUFX2_5
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1412 0 -1 505
 box 0 0 24 100
 use FILL  FILL_5_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1444 0 -1 505
 box 0 0 8 100
 use BUFX4  BUFX4_9
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 4 0 1 305
 box 0 0 32 100
 use DFFSR  DFFSR_40
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 36 0 1 305
 box 0 0 176 100
 use DFFSR  DFFSR_38
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 212 0 1 305
 box 0 0 176 100
 use INVX2  INVX2_6
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 404 0 1 305
 box 0 0 16 100
 use NAND2X1  NAND2X1_35
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 404 0 1 305
 box 0 0 24 100
 use OR2X2  OR2X2_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 428 0 1 305
 box 0 0 32 100
 use FILL  FILL_3_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 460 0 1 305
 box 0 0 8 100
 use FILL  FILL_3_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 468 0 1 305
 box 0 0 8 100
 use AOI21X1  AOI21X1_20
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 476 0 1 305
 box 0 0 32 100
 use INVX1  INVX1_37
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 508 0 1 305
 box 0 0 16 100
 use OAI21X1  OAI21X1_32
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 524 0 1 305
 box 0 0 32 100
 use NAND3X1  NAND3X1_19
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 588 0 1 305
 box 0 0 32 100
 use NOR2X1  NOR2X1_32
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 588 0 1 305
 box 0 0 24 100
 use AOI22X1  AOI22X1_3
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 652 0 1 305
 box 0 0 40 100
 use NAND2X1  NAND2X1_21
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 676 0 1 305
 box 0 0 24 100
 use AOI21X1  AOI21X1_18
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 708 0 1 305
 box 0 0 32 100
 use INVX1  INVX1_36
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 708 0 1 305
 box 0 0 16 100
 use AOI21X1  AOI21X1_17
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 756 0 1 305
 box 0 0 32 100
 use NAND3X1  NAND3X1_18
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 788 0 1 305
 box 0 0 32 100
 use AOI22X1  AOI22X1_2
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 828 0 1 305
 box 0 0 40 100
 use AOI21X1  AOI21X1_15
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 860 0 1 305
 box 0 0 32 100
 use NAND2X1  NAND2X1_20
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 860 0 1 305
 box 0 0 24 100
 use OAI21X1  OAI21X1_11
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 884 0 1 305
 box 0 0 32 100
 use NAND2X1  NAND2X1_31
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 940 0 1 305
 box 0 0 24 100
 use INVX2  INVX2_2
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 956 0 1 305
 box 0 0 16 100
 use FILL  FILL_3_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 956 0 1 305
 box 0 0 8 100
 use FILL  FILL_3_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 964 0 1 305
 box 0 0 8 100
 use BUFX4  BUFX4_7
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 972 0 1 305
 box 0 0 32 100
 use NAND3X1  NAND3X1_16
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1004 0 1 305
 box 0 0 32 100
 use OAI22X1  OAI22X1_3
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1076 0 1 305
 box 0 0 40 100
 use INVX8  INVX8_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1076 0 1 305
 box 0 0 40 100
 use INVX4  INVX4_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1116 0 1 305
 box 0 0 24 100
 use NAND2X1  NAND2X1_27
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1140 0 1 305
 box 0 0 24 100
 use OAI21X1  OAI21X1_26
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1196 0 1 305
 box 0 0 32 100
 use AOI21X1  AOI21X1_7
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1196 0 1 305
 box 0 0 32 100
 use DFFSR  DFFSR_12
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1404 0 1 305
 box 0 0 176 100
 use BUFX2  BUFX2_4
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1404 0 1 305
 box 0 0 24 100
 use FILL  FILL_4_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1428 0 1 305
 box 0 0 8 100
 use FILL  FILL_4_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1436 0 1 305
 box 0 0 8 100
 use DFFSR  DFFSR_35
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 4 0 -1 305
 box 0 0 176 100
 use DFFSR  DFFSR_41
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 180 0 -1 305
 box 0 0 176 100
 use INVX2  INVX2_7
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 356 0 -1 305
 box 0 0 16 100
 use NOR2X1  NOR2X1_36
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 396 0 -1 305
 box 0 0 24 100
 use OAI22X1  OAI22X1_5
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 396 0 -1 305
 box 0 0 40 100
 use NOR2X1  NOR2X1_34
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 460 0 -1 305
 box 0 0 24 100
 use FILL  FILL_2_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 460 0 -1 305
 box 0 0 8 100
 use FILL  FILL_2_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 468 0 -1 305
 box 0 0 8 100
 use AOI21X1  AOI21X1_19
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 476 0 -1 305
 box 0 0 32 100
 use NOR2X1  NOR2X1_20
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 508 0 -1 305
 box 0 0 24 100
 use INVX1  INVX1_24
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 532 0 -1 305
 box 0 0 16 100
 use OAI21X1  OAI21X1_14
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 548 0 -1 305
 box 0 0 32 100
 use NOR2X1  NOR2X1_35
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 604 0 -1 305
 box 0 0 24 100
 use NOR2X1  NOR2X1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 604 0 -1 305
 box 0 0 24 100
 use OAI21X1  OAI21X1_13
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 628 0 -1 305
 box 0 0 32 100
 use BUFX4  BUFX4_14
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 660 0 -1 305
 box 0 0 32 100
 use OAI21X1  OAI21X1_8
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 692 0 -1 305
 box 0 0 32 100
 use NAND2X1  NAND2X1_33
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 724 0 -1 305
 box 0 0 24 100
 use BUFX4  BUFX4_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 748 0 -1 305
 box 0 0 32 100
 use NAND2X1  NAND2X1_24
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 780 0 -1 305
 box 0 0 24 100
 use NAND2X1  NAND2X1_30
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 804 0 -1 305
 box 0 0 24 100
 use AOI21X1  AOI21X1_12
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 860 0 -1 305
 box 0 0 32 100
 use OAI21X1  OAI21X1_7
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 892 0 -1 305
 box 0 0 32 100
 use NAND3X1  NAND3X1_13
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 924 0 -1 305
 box 0 0 32 100
 use INVX1  INVX1_34
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 924 0 -1 305
 box 0 0 16 100
 use NAND3X1  NAND3X1_14
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 940 0 -1 305
 box 0 0 32 100
 use FILL  FILL_2_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 972 0 -1 305
 box 0 0 8 100
 use FILL  FILL_2_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 980 0 -1 305
 box 0 0 8 100
 use NAND2X1  NAND2X1_16
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 988 0 -1 305
 box 0 0 24 100
 use DFFSR  DFFSR_34
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1188 0 -1 305
 box 0 0 176 100
 use DFFSR  DFFSR_13
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1364 0 -1 305
 box 0 0 176 100
 use CLKBUF1  CLKBUF1_6
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1436 0 -1 305
 box 0 0 72 100
 use FILL  FILL_3_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1444 0 -1 305
 box 0 0 8 100
 use CLKBUF1  CLKBUF1_5
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 4 0 1 105
 box 0 0 72 100
 use DFFSR  DFFSR_42
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 76 0 1 105
 box 0 0 176 100
 use NOR3X1  NOR3X1_8
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 316 0 1 105
 box 0 0 64 100
 use NAND2X1  NAND2X1_36
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 316 0 1 105
 box 0 0 24 100
 use AND2X2  AND2X2_5
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 340 0 1 105
 box 0 0 32 100
 use OAI21X1  OAI21X1_33
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 372 0 1 105
 box 0 0 32 100
 use INVX2  INVX2_8
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 420 0 1 105
 box 0 0 16 100
 use AOI21X1  AOI21X1_21
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 452 0 1 105
 box 0 0 32 100
 use FILL  FILL_1_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 460 0 1 105
 box 0 0 8 100
 use FILL  FILL_1_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 468 0 1 105
 box 0 0 8 100
 use AOI22X1  AOI22X1_4
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 508 0 1 105
 box 0 0 40 100
 use NAND2X1  NAND2X1_23
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 532 0 1 105
 box 0 0 24 100
 use AOI21X1  AOI21X1_22
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 532 0 1 105
 box 0 0 32 100
 use NAND2X1  NAND2X1_22
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 588 0 1 105
 box 0 0 24 100
 use OAI21X1  OAI21X1_15
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 620 0 1 105
 box 0 0 32 100
 use NOR2X1  NOR2X1_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 620 0 1 105
 box 0 0 24 100
 use BUFX4  BUFX4_11
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 644 0 1 105
 box 0 0 32 100
 use BUFX4  BUFX4_13
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 676 0 1 105
 box 0 0 32 100
 use BUFX4  BUFX4_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 708 0 1 105
 box 0 0 32 100
 use BUFX4  BUFX4_3
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 740 0 1 105
 box 0 0 32 100
 use INVX8  INVX8_3
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 812 0 1 105
 box 0 0 40 100
 use NOR2X1  NOR2X1_17
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 812 0 1 105
 box 0 0 24 100
 use NOR2X1  NOR2X1_18
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 836 0 1 105
 box 0 0 24 100
 use NOR2X1  NOR2X1_21
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 860 0 1 105
 box 0 0 24 100
 use AOI21X1  AOI21X1_5
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 916 0 1 105
 box 0 0 32 100
 use AOI21X1  AOI21X1_8
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 948 0 1 105
 box 0 0 32 100
 use OAI21X1  OAI21X1_22
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 980 0 1 105
 box 0 0 32 100
 use FILL  FILL_1_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 988 0 1 105
 box 0 0 8 100
 use FILL  FILL_1_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 996 0 1 105
 box 0 0 8 100
 use OAI21X1  OAI21X1_21
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1028 0 1 105
 box 0 0 32 100
 use NOR2X1  NOR2X1_16
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1052 0 1 105
 box 0 0 24 100
 use OAI21X1  OAI21X1_18
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1084 0 1 105
 box 0 0 32 100
 use NOR2X1  NOR2X1_23
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1108 0 1 105
 box 0 0 24 100
 use OAI21X1  OAI21X1_19
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1108 0 1 105
 box 0 0 32 100
 use AND2X2  AND2X2_3
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1140 0 1 105
 box 0 0 32 100
 use OAI21X1  OAI21X1_20
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1172 0 1 105
 box 0 0 32 100
 use OAI21X1  OAI21X1_17
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1204 0 1 105
 box 0 0 32 100
 use INVX1  INVX1_11
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1252 0 1 105
 box 0 0 16 100
 use DFFSR  DFFSR_14
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1428 0 1 105
 box 0 0 176 100
 use FILL  FILL_2_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1428 0 1 105
 box 0 0 8 100
 use FILL  FILL_2_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1436 0 1 105
 box 0 0 8 100
 use BUFX2  BUFX2_19
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 4 0 -1 105
 box 0 0 24 100
 use CLKBUF1  CLKBUF1_2
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 28 0 -1 105
 box 0 0 72 100
 use DFFSR  DFFSR_43
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 100 0 -1 105
 box 0 0 176 100
 use NOR2X1  NOR2X1_38
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 276 0 -1 105
 box 0 0 24 100
 use AOI21X1  AOI21X1_25
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 332 0 -1 105
 box 0 0 32 100
 use NOR3X1  NOR3X1_9
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 332 0 -1 105
 box 0 0 64 100
 use OAI21X1  OAI21X1_34
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 428 0 -1 105
 box 0 0 32 100
 use INVX1  INVX1_25
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 428 0 -1 105
 box 0 0 16 100
 use FILL  FILL_0_0_0
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 444 0 -1 105
 box 0 0 8 100
 use FILL  FILL_0_0_1
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 452 0 -1 105
 box 0 0 8 100
 use AOI21X1  AOI21X1_23
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 460 0 -1 105
 box 0 0 32 100
 use AOI21X1  AOI21X1_24
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 524 0 -1 105
 box 0 0 32 100
 use OAI21X1  OAI21X1_16
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 524 0 -1 105
 box 0 0 32 100
 use AND2X2  AND2X2_6
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 588 0 -1 105
 box 0 0 32 100
 use NAND2X1  NAND2X1_37
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 612 0 -1 105
 box 0 0 24 100
 use NOR2X1  NOR2X1_37
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 612 0 -1 105
 box 0 0 24 100
 use BUFX4  BUFX4_12
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 668 0 -1 105
 box 0 0 32 100
 use BUFX4  BUFX4_4
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 700 0 -1 105
 box 0 0 32 100
 use NAND2X1  NAND2X1_17
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 700 0 -1 105
 box 0 0 24 100
 use DFFSR  DFFSR_33
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 900 0 -1 105
 box 0 0 176 100
 use NOR2X1  NOR2X1_24
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 924 0 -1 105
 box 0 0 24 100
 use NAND2X1  NAND2X1_26
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 948 0 -1 105
 box 0 0 24 100
 use OAI21X1  OAI21X1_23
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 948 0 -1 105
 box 0 0 32 100
 use FILL  FILL_0_1_0
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 988 0 -1 105
 box 0 0 8 100
 use FILL  FILL_0_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 996 0 -1 105
 box 0 0 8 100
 use AND2X2  AND2X2_4
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1028 0 -1 105
 box 0 0 32 100
 use INVX1  INVX1_10
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1044 0 -1 105
 box 0 0 16 100
 use INVX1  INVX1_35
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1044 0 -1 105
 box 0 0 16 100
 use OAI21X1  OAI21X1_24
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1060 0 -1 105
 box 0 0 32 100
 use OAI21X1  OAI21X1_25
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1124 0 -1 105
 box 0 0 32 100
 use NOR2X1  NOR2X1_25
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1148 0 -1 105
 box 0 0 24 100
 use DFFSR  DFFSR_15
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1324 0 -1 105
 box 0 0 176 100
 use INVX1  INVX1_15
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1340 0 -1 105
 box 0 0 16 100
 use BUFX2  BUFX2_3
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1340 0 -1 105
 box 0 0 24 100
 use BUFX2  BUFX2_16
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1388 0 -1 105
 box 0 0 24 100
 use BUFX2  BUFX2_10
-timestamp 1560662619
+timestamp 1560670132
 transform 1 0 1388 0 -1 105
 box 0 0 24 100
 use BUFX2  BUFX2_14
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1436 0 -1 105
 box 0 0 24 100
 use FILL  FILL_1_1
-timestamp 1560662619
+timestamp 1560670132
 transform -1 0 1444 0 -1 105
 box 0 0 8 100
-use PADINC  PADINC_1
-timestamp 1560662619
-transform 0 1 1666 -1 0 1548
-box 0 0 900 3000
-use PADINC  PADINC_3
-timestamp 1560662619
-transform 0 -1 -98 1 0 -240
-box 0 0 900 3000
-use PADFC  PADFC_3
-timestamp 1560662619
-transform 1 0 -3098 0 -1 -228
-box 0 0 3000 3000
-use PADINC  PADINC_0
-timestamp 1560662619
-transform -1 0 790 0 -1 -228
-box 0 0 900 3000
-use PADOUT  PADOUT_0
-timestamp 1560662619
-transform 0 1 1666 -1 0 660
-box 0 0 900 3000
-use PADGND  PADGND_1
-timestamp 1560662619
-transform -1 0 1678 0 -1 -228
-box 0 0 900 3000
-use PADFC  PADFC_2
-timestamp 1560662619
-transform -1 0 4666 0 -1 -228
-box 0 0 3000 3000
+use padframe  padframe_0
+timestamp 1560670327
+transform 1 0 -39 0 1 29
+box -3098 -3228 4666 4536
 << labels >>
 rlabel metal6 440 -30 456 -22 8 vdd
 port 0 nsew

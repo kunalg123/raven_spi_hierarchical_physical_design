@@ -1,0 +1,54 @@
+magic
+tech scmos
+timestamp 1560670132
+<< checkpaint >>
+rect -3098 -3228 4666 4536
+use PADFC  PADFC_0
+timestamp 1560670132
+transform 1 0 -3098 0 1 1536
+box 0 0 3000 3000
+use PADVDD  PADVDD_0
+timestamp 1560670132
+transform 1 0 -98 0 1 1536
+box 0 0 900 3000
+use PADVDD  PADVDD_1
+timestamp 1560670132
+transform 1 0 802 0 1 1536
+box 0 0 900 3000
+use PADFC  PADFC_1
+timestamp 1560670132
+transform 0 1 1666 -1 0 4536
+box 0 0 3000 3000
+use PADINC  PADINC_2
+timestamp 1560670132
+transform 0 -1 -98 1 0 648
+box 0 0 900 3000
+use PADINC  PADINC_1
+timestamp 1560670132
+transform 0 1 1666 -1 0 1548
+box 0 0 900 3000
+use PADINC  PADINC_3
+timestamp 1560670132
+transform 0 -1 -98 1 0 -240
+box 0 0 900 3000
+use PADFC  PADFC_3
+timestamp 1560670132
+transform 1 0 -3098 0 -1 -228
+box 0 0 3000 3000
+use PADINC  PADINC_0
+timestamp 1560670132
+transform -1 0 790 0 -1 -228
+box 0 0 900 3000
+use PADOUT  PADOUT_0
+timestamp 1560670132
+transform 0 1 1666 -1 0 660
+box 0 0 900 3000
+use PADGND  PADGND_1
+timestamp 1560670132
+transform -1 0 1678 0 -1 -228
+box 0 0 900 3000
+use PADFC  PADFC_2
+timestamp 1560670132
+transform -1 0 4666 0 -1 -228
+box 0 0 3000 3000
+<< end >>
